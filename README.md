@@ -121,7 +121,7 @@ Additionally, **interactive dashboards** in Power BI and Tableau provide visual 
 ---
 
 ### **Contributors**
-- **Vimalanandhan Sivanandham** - Project Lead, Power BI Developer 
-- **Shashidhar Babu P V D** - Project Lead, ML Developer
+- **Vimalanandhan Sivanandham** - Project Lead, ML and Power BI Developer 
+- **Shashidhar Babu P V D** - ETL
 - **Vineeth R** - Tableau Developer
 - **Nakshatra Desai** - Documentation
